@@ -92,8 +92,9 @@ section{
 #yi{
     padding: 38px 158px;
 }
-.box {
+.ccard {
     border: 1px solid black;
-    width: 15rem;
-    height: 30rem;
+    width: 27rem;
+    height: 5rem;
+    border-radius: 5px;
 }
