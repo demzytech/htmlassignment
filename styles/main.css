@@ -98,3 +98,49 @@ section{
     height: 5rem;
     border-radius: 5px;
 }
+#socialicons{
+    color: white;
+    font-size: 32px
+    
+}
+#card4{
+    border: 1px solid black;
+    width: 17rem;
+    height:15rem ;
+    border-radius:20px ;
+    display: flex;
+    transition: 5s;
+
+    color: #23263A;
+
+}
+#card3{
+    border: 1px solid black;
+    width: 17rem;
+    height:15rem ;
+    border-radius:20px ;
+    padding: 50px 35px;
+    transition: 5s;
+    color: #23263A;
+}
+#card2{
+    border: 1px solid black;
+    width: 17rem;
+    height:15rem ;
+    border-radius:20px ;
+    padding: 50px 35px;
+    transition: 5s;
+    color: #23263A;
+}
+#playing{
+    font-weight:800; font-size: 20px; color: white;
+    padding: 76px 38px;
+}
+#slip{
+    font-weight:800; font-size: 20px; color: white;
+    padding: 38px 38px;
+}
+#vert{
+    font-weight:800; font-size: 20px; color: white;
+    padding: 38px 38px;
+}
